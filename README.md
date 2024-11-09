@@ -1,10 +1,10 @@
------------PROJECT INFORMATION-----------
-	PRO.name ............ bank accaunt management
-	PRO.number........... project number 3
-	PRO.author........... eng.EBISA
-	PRO.authors-email.... ebisatesfaye30@gmail.com
+              -----------PROJECT INFORMATION-----------
+	   PRO.name ............ bank accaunt management
+	   PRO.number........... project number 3
+	   PRO.author........... eng.EBISA
+	   PRO.authors-email.... ebisatesfaye30@gmail.com
 
----------DETAILED INFORMATION----------
+               ---------DETAILED INFORMATION----------
 
     ********Bank account management.**********
  
